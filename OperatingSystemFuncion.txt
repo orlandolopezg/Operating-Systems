@@ -1,0 +1,4 @@
+One function of an operating system is that its has the ability to turn off and turn on a device.
+meaning if you need to use a certain device the operating system in that device has the capacity to turn it on.
+The operating system in that device also has the capacity to turn off the device, so if you dont want the device to waste energy you can 
+turn it off.
