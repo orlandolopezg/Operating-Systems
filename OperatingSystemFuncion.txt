@@ -5,3 +5,7 @@ turn it off.
 Another thing an operating system can do is establish an internet connection to your device.
 Meaning your dive will have access to the internet and your be able to surf the web. 
 Haveing an internet connection is good because you are able to look up information about almost anything that is online.
+What an operationg system can also do is manage different programs on your device. 
+what it can do is have multiple apps running that way you dont have to close an app in order to open a new one.
+This is good because say you need one app to write things down and on the other app its showing you what you need to read to take notes 
+from. these are some of the thing that an operating system is able to do on your device.
